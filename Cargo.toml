@@ -6,5 +6,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-alsa = "0.9.1"
-alsa-sys = "0.3.1"
+alsa = "0.12.1"
+alsa-sys = "0.6.1"
