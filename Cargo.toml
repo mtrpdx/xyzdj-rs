@@ -1,6 +1,11 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "xyzdj-rs"
+description = "dj controller software written in rust"
+homepage = "https://github.com/mtrpdx/xyzdj-rs"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+alsa = "0.12.1"
